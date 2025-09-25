@@ -1,35 +1,35 @@
 proxies:
-  - name: '🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 1ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ -FTP[ShowTime, FtpBD]'
+  - name: '1'
     type: 'socks5'
     server: '45.64.132.21'
     port: 1088
     username: 'test'
     password: 'test'
-  - name: '🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 1ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ -FTP[ShowTime, FtpBD]'
+  - name: '2'
     type: 'socks5'
     server: '103.199.155.186'
     port: 1088
     username: 'test'
     password: 'test'
-  - name: '🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 2ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ -FTP[ShowTime, FtpBD]'
+  - name: '3'
     type: 'socks5'
     server: '103.245.96.28'
     port: 1088
     username: 'test'
     password: 'test'
-  - name: '🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 2ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ -FTP[ShowTime, FtpBD]'
+  - name: '3'
     type: 'socks5'
     server: '118.179.216.138'
     port: 1920
     username: 'test'
     password: 'test'
-  - name: '🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 3ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[SamFTP, ShowTime, FtpBD]'
+  - name: '4'
     type: 'socks5'
     server: '103.126.23.222'
     port: 1088
     username: 'test'
     password: 'test'
-  - name: '🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 4ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[SamFTP, ShowTime, FtpBD, EBox, TimePassBD, Discovery, CloudTV, IccFTP]'
+  - name: '5'
     type: 'socks5'
     server: '103.38.55.55'
     port: 1088
